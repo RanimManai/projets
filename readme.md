@@ -2,7 +2,7 @@
 *Ranim MANAI*
   
 **E-ELECTION** est un système de gestion d'élections basique implémenté en langage C.  
-Il estconçu pour permettre la participation d'électeurs, de candidats et d'administrateurs.  
+Il est conçu pour permettre la participation d'électeurs, de candidats et d'administrateurs.  
 Il fournit une interface en ligne de commande pour interagir avec le système en fonction du rôle de l'utilisateur.  
   
 ## Fonctionnalités
