@@ -48,4 +48,9 @@ et le fichier txt pour stocker les elections.
 ### Fichier TXT
 
 **elections.txt:** Stocke les IDs de tous les élections.  
+## EXEMPLE DE LOGIN:
+**Admin** { id = 1 , mot de passe = password1 }  
+**Candidat** { id= 1 , mot de passe = password1 }  
+**Electeur** { id= 5 }  
+**Election** { id = 1 }  
 
